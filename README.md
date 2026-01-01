@@ -28,6 +28,3 @@ you can call me Miji
 ## Database 🛢
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirmidziAhmad)](https://github.com/anuraghazra/github-readme-stats)
